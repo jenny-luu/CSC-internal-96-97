@@ -81,3 +81,4 @@ from tkinter import *# This code to import tkinter,so we can make a GUI
 
 
  main()
+print("hi")
